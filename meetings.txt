@@ -21,3 +21,9 @@ Members Present: Everyone
 Activities: We decided on using user stories to describe the requirements of each feature,
 and confirmed our decision to use a waterfall method in moving through the project. The 
 milestone should be complete by the end of next Thursday's meeting.
+
+Meeting 5: Thursday 10/17/19, 9:00-11:00
+Members Present: Everyone
+Activities: We finalized milestone 2, creating a gantt chart to document our plan and schedule,
+as well as restructuring the user stories to match the format given in class. We submitted and
+uploaded the milestone. 
