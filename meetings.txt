@@ -11,7 +11,7 @@ Activities: Finalized decision to create ski ridesharing and information app des
 to be used on android. Finallized decisions on front end, back end software choices,
 app name. Shared github repositories with everyone. 
 
-Meeting 3: Thursday 10/3/19, 9:00-11:00
+Meeting 3: Thursday 10/03/19, 9:00-11:00
 Members Present: Everyone
 Activities: Began work on Milestone 2. We outlined 8 main features that will make up the
 application, and began formatting our requirements and project plan. 
@@ -27,3 +27,18 @@ Members Present: Everyone
 Activities: We finalized milestone 2, creating a gantt chart to document our plan and schedule,
 as well as restructuring the user stories to match the format given in class. We submitted and
 uploaded the milestone. 
+
+Meeting 6: Thursday 10/24/19, 9:00-11:00
+Members Present: Everyone
+Activities: We began work on milestone 3, and decided on developing the front end of our website 
+first, assigning everyone html pages to implement. 
+
+Meeting 7: Thursday 10/31/19, 9:00-11:00
+Members Present: Everyone
+Activities: We confirmed that everyone's html pages were finished, and prepped for the milestone 3 meeting
+tomorrow. Spent the remainder of meeting finishing up HTML.
+
+Meeting 8: Thursday 11/06/19, 9:00-11:00
+Members Present: Everyone
+Activities: This weekend, the group began designing our tables for the backend database, and today we began
+documenting all our different layers for milestone 4. Most work on milestone 4 was done during this meeting. 
